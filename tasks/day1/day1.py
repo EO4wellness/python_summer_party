@@ -1,4 +1,4 @@
-# Day 1 Conext Scenario:  WhatsApp Group Size Engagement Analysis 
+# Day 1 Context Scenario:  WhatsApp Group Size Engagement Analysis
 # You are a Product Analyst on the WhatsApp team investigating group messaging dynamics. Your team wants to 
 # understand how large groups are being used and their messaging patterns. You'll leverage data to uncover 
 # insights about group participation and communication behaviors.
