@@ -17,23 +17,26 @@ This 15-day, Python Themed (using Python libraries), challenge involves solving 
 
 Link: <https://www.interviewmaster.ai/python-party>
 
-## My Projects: 
+## My Projects:
 
-Day 1 
-Day 2
-Day 3 
-Day 4 
-Day 5 
-Day 6 
-Day 7 
-Day 8 
-Day 9 
-Day 10 
-Day 11 
-Day 12 
-Day 13 
-Day 14 
-Day 15 
+## My Projects:
+&nbsp;&nbsp;&nbsp;&nbsp;**Project Ratings:** Easy, Medium, Hard
+- [Day 1](https://github.com/EO4wellness/python_summer_party/blob/main/tasks/day1/day1.py) – WhatsApp (Easy)<br>
+- [Day 2](#) – Amazon (Medium)<br>
+- [Day 3](https://github.com/EO4wellness/python_summer_party/blob/main/tasks/day3/day3.py) – Disney (Hard)<br>
+- [Day 4](#) – Google (Easy)<br>
+- [Day 5](#) – Nintendo (Hard)<br>
+- [Day 6](#) – Ben & Jerry's (Hard)<br>
+- [Day 7](#) – Nike (Easy)<br>
+- [Day 8](#) – Lululemon (Medium)<br>
+- [Day 9](#) – Meta (Medium)<br>
+- [Day 10](#) – Apple (Easy)<br>
+- [Day 11](#) – Stripe (Medium)<br>
+- [Day 12](#) – Walmart (Medium)<br>
+- [Day 13](#) – Shake Shack (Medium)<br>
+- [Day 14](#) – Starbucks (Hard)<br>
+- [Day 15](#) – Uber (Hard)<br>
+
 
 ## Reflections: 
 coming soon 
