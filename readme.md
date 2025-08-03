@@ -1,7 +1,7 @@
 # Python Summer Party 
 This 15-day, Python Themed (using Python libraries), challenge involves solving real-world style questions. The platform being used is interview master and the challenge was created in partnershp with DataCamp. 
 
-![Python Summer Part Logo](images/python-summer-party.jpg] 
+![Python Summer Part Logo](images/python-summer-party.jpg)
 
 ## What does the challenge include?
 
