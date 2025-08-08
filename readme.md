@@ -18,8 +18,6 @@ This 15-day, Python Themed (using Python libraries), challenge involves solving 
 Link: <https://www.interviewmaster.ai/python-party>
 
 ## My Projects:
-
-## My Projects:
 &nbsp;&nbsp;&nbsp;&nbsp;**Project Ratings:** Easy, Medium, Hard
 - [Day 1](https://github.com/EO4wellness/python_summer_party/blob/main/tasks/day1/day1.py) – WhatsApp (Easy)<br>
 - [Day 2](#) – Amazon (Medium)<br>
